@@ -3,7 +3,7 @@
 !--<este texto no se puede leer>
 **davidcruzada/davidcruzada** 
 Here are some ideas to get you started:
-
+Esta es una actualizacion que acabo de hacer en la noche
 - 🔭 I’m currently working on my own business
 - 🌱 I’m currently learning coding
 - 👯 I’m looking to collaborate on projects
